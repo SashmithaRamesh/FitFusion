@@ -1,0 +1,116 @@
+.menu
+{
+    background-image: linear-gradient(to bottom,rgba(193, 81, 175, 0.5), rgb(91, 195, 181));
+}
+.bgimage
+{
+    height: 1600px;
+    width: 1510px;
+}
+.cen
+{
+    margin-left: 600px;
+    margin-right: 600px;
+    border-color: 1px solid black;
+    background-image: linear-gradient(to bottom,rgba(193, 81, 175, 0.5), rgb(91, 195, 181));
+    
+}
+.adj
+{
+    width: 250px;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+.y{
+    text-align: center;
+}
+
+.x{
+    text-align: center;
+    color:  rgb(116, 63, 162);;
+}
+.w{
+    margin-left: 300px;
+}
+  
+  
+  h2 {
+    color: #333;
+  }
+  
+  p {
+    color: #555;
+  }
+  .centre
+  {
+    text-align: center;
+  }
+  .font
+  {
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  .p{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+  }
+
+  .L{
+    margin-left: 500px;
+  }
+  .small2
+  {
+    width: 300px; /* Adjust the width as needed */
+    height: 400px; /* Adjust the height as needed */
+    background-image: linear-gradient(to bottom,rgba(203, 133, 191, 0.5), rgb(194, 232, 227));
+    margin-right: 300px; /* Add margin to separate the boxes */
+    padding-right: 50px;
+    font-family: "Times New Roman", Times, serif;
+ 
+  }
+  .small1
+  {
+    width: 300px; /* Adjust the width as needed */
+    height: 400px; /* Adjust the height as needed */
+    background-image: linear-gradient(to bottom,rgba(203, 133, 191, 0.5), rgb(194, 232, 227));
+    margin-right: 30px; /* Add margin to separate the boxes */
+    padding-right: 50px;
+    margin-left: 400px;
+    font-family: "Times New Roman", Times, serif;
+    
+  }
+  .container
+  {
+    display: flex; /* Use flexbox */
+    text-align: center;
+  }
+  .tag
+  {
+    font-family: "Times New Roman", Times, serif;
+  font-weight: bold; /* Make the font bold */
+  color: #333; /* Darken the color (#333 is a shade of dark gray) */
+  padding-left: 50px;
+  }
+  .calc
+  {
+    height: 100px;
+    width: 100px;
+    padding-left: 50px;
+  }
+  .fdcl
+  {
+    height: 100px;
+    width: 150px;
+    padding-left: 50px;
+  }
+  .bu1
+  {
+    padding-left: 40px;
+  }
+  .bu2
+  {
+    padding-left: 40px;
+  }

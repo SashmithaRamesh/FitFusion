@@ -1,0 +1,16 @@
+table
+{
+    border-collapse: collapse;
+}
+.z{
+    text-align: center;
+}
+.v{
+    margin-left: 200px;
+}
+.t
+{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSHQkGHdXLPoouyYUl6ROs-zhhDT90wASi3g&usqp=CAU');
+    background-size: cover;
+    overflow: hidden;
+}

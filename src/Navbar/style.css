@@ -1,0 +1,51 @@
+/* calorieCalculator.css */
+
+.calorie-calculator {
+    max-width: 400px;
+    margin-top: 100px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+    margin-left: 600px;
+    background-image: linear-gradient(to bottom,rgba(231, 203, 226, 0.5), rgb(195, 235, 229));
+    height: 450px;
+    width: 600px;
+    padding: 30px;
+  }
+  
+  .calorie-calculator h2 {
+    margin-top: 0;
+  }
+  
+  .calorie-calculator div {
+    margin-bottom: 10px;
+  }
+  
+  .calorie-calculator label {
+    display: inline-block;
+    width: 120px;
+  }
+  
+  .calorie-calculator input[type="number"],
+  .calorie-calculator select {
+    width: 200px;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+  .calocal
+  {
+    text-align: center;
+  }
+  
+  .bucal
+  { 
+    padding-left: 130px;
+  }
+  
+  
+  .calorie-calculator h3 {
+    margin-top: 20px;
+  }
+  
