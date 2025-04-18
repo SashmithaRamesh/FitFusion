@@ -23,7 +23,7 @@ const Register = () => {
    const { setUser } = useContext(UserContext); 
 
   const checkUserExists = async (username) => {
-      const response = await axios.get('');
+      const response = await axios.get('http://localhost:8080/get');
       return response.data.some(user => user.username === username);
   };
 
@@ -41,7 +41,7 @@ const Register = () => {
       return;
     }
 
-    axios.post('', signupDetails)
+    axios.post('http://localhost:8080/insert', signupDetails)
       .then(response => {
         console.log('Signup successful:', response.data);
         setUser(response.data);
