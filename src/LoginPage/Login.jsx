@@ -14,7 +14,7 @@ function Login() {
   const { setUser } = useContext(UserContext);
 
   useEffect(() => {
-    axios.get('')
+    axios.get('http://localhost:8080/get')
       .then(response => setUsers(response.data))
       .catch(error => console.error('Error:', error));
   }, []);
